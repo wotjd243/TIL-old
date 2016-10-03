@@ -34,7 +34,7 @@ acquired company : 인수 합병된 회사
 **Agency Trading Desks :** 광고주나 대행사를 대신하여 광고 영역의 프로그래매틱 바잉을 도와주는 곳.  
 ATD는 다양한 매체 중에서 광고주의 목적과 적합한 고객이 있는 매체를 찾아내고 실시간 입찰을 통해 광고를 거래한다.  
 또한 ATD는 프로그래매틱 바잉에 따른 광고 결과 분석 및 보고를 진행한다.  
-ATD는 다수의 DSP를 포함한 전반적인 RTB 플랫폼들(페이스북, 트위터, 유튜브 등)과 연동되어 포괄적인 광고를 집행할 수 있도록 도와준다.  
+ATD는 다수의 DSP를 포함한 전반적인 RTB 플랫폼들과 연동되어 포괄적인 광고를 집행할 수 있도록 도와준다.  
 
 **Creative Optimization :** 광고 자체를 사용자 취향에 맞게 최적화하는 것. 배너광고의 디자인과 내용, 위치 등을 최적화하는 것.  
 광고주가 미리 여러 가지 이미지와 텍스트, 정보들을 입력해 두면, 상황에 맞게 데이터와 텍스트를 조합하여 배너를 만들어 내는 솔루션.  
@@ -50,11 +50,12 @@ Media Planning : 분명하고, 일관되고, 주목성 높은 메시지를 의�
 
 **Tag Mgmt :**  
 
-**Measurement and Analytics :** 특정 사이트의 특정 배너광고에 대해서 '특정 배너가 유저에게 몇 번이나 노출이 되었는지'  
-또는 '노출된 배너를 몇 번이나 클릭했는지', '광고주가 원하는 타켓층에서 클릭한 비율이 얼마나 되는지', '어떤 시간대에 많이 광고가 나갔는지' 등등을 측정.  
+**Measurement and Analytics :** 특정 사이트의 특정 배너광고에 대해서 '특정 배너가 유저에게 몇 번이나 노출이 되었는지' 또는  
+'노출된 배너를 몇 번이나 클릭했는지', '광고주가 원하는 타켓층에서 클릭한 비율이 얼마나 되는지', '어떤 시간대에 많이 광고가 나갔는지' 등등을 측정.  
 
-**Exchanges :** 애드 익스체인지는 애드 네트워크에서 한단계 나아간 형태로, 수많은 애드 네트워크에 동시에 연결되어 있어 인벤토리의 구매와 판매를 촉진시킨다.  
-DSP와 SSP의 가운데에서 거래 중개를 하는 중개소 역할을 한다. 위에서 설명한 RTB(실시간 경매방식) 거래가 애드 익스체인지에서 일어난다.  
+**Exchanges :** 애드 익스체인지는 애드 네트워크에서 한단계 나아간 형태로,  
+수많은 애드 네트워크에 동시에 연결되어 있어 인벤토리의 구매와 판매를 촉진시킨다.  
+DSP와 SSP의 가운데에서 거래 중개를 하는 중개소 역할을 한다. RTB 거래가 애드 익스체인지에서 일어난다.  
 
 **DMPs and Data Aggregators :** 데이터를 받아서 통합하고 가공. DSP가 타겟유저인지 판단할 수 있도록 해당 유저정보를 조회해 제공해주는 데이터 제공 역할.  
 
@@ -78,17 +79,17 @@ AMP(Audience Management Platform)
 
 **Sharing Data / Social Tools :**  
 
-**SSPs : ** 퍼블리셔의 이익을 최대화하기 위해 다양한 경로로 들어오는 광고들 중 가장 높은 수익을 가져다 줄 수 있는 광고를 유저에게 송출하도록 하는 플랫폼.  
+**SSPs :** 퍼블리셔의 이익을 최대화하기 위해 다양한 경로로 들어오는 광고들 중 가장 높은 수익을 가져다 줄 수 있는 광고를 유저에게 송출하도록 하는 플랫폼.  
 
 **Publisher Tools :**  
 
 **Publisher :** 광고 내용을 소비자에게 전달하는 매개체. '광고지면'을 제공하는 사람.  
 
 ## 참고문헌
-http://www.slideshare.net/DayeonJeong1/20150419-47165978
-http://blog.buzzvil.com/2015/10/30/mmc-2016-korean-mobile-advertising-landscape-buzzscape-2-0/
-http://blog.naver.com/applift/220461663167
-http://itmobile.tistory.com/entry/Ads-Study-list
-http://www.mobiinside.com/kr/2016/03/31/rtb-lee-1/
+http://www.slideshare.net/DayeonJeong1/20150419-47165978  
+http://blog.buzzvil.com/2015/10/30/mmc-2016-korean-mobile-advertising-landscape-buzzscape-2-0/  
+http://blog.naver.com/applift/220461663167  
+http://itmobile.tistory.com/entry/Ads-Study-list  
+http://www.mobiinside.com/kr/2016/03/31/rtb-lee-1/  
 
 ![](http://s3-ap-northeast-2.amazonaws.com/mobiinsidecontent/kr/wp-content/uploads/2016/03/26025819/181.png)
