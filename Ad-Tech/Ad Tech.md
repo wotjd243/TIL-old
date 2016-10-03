@@ -18,7 +18,7 @@ Ad-Tag가 지정된 Ad-Server에 자동으로 전달되는 모든 방식의 광�
 매체(퍼블리셔)는 매체수익을 '최대화'하는 것.  
 
 ## Display LUMAscape
-![](http://marketingland.com/wp-content/ml-loads/2016/05/displaylumascape.png)
+![](https://camo.githubusercontent.com/c95b7c9491eeb782703785da6b06f5b781a3b0e5/687474703a2f2f6d61726b6574696e676c616e642e636f6d2f77702d636f6e74656e742f6d6c2d6c6f6164732f323031362f30352f646973706c61796c756d6173636170652e706e67)
 acquired company : 인수 합병된 회사
 
 **Marketer :** 광고를 내는 사람. '광고지면'을 요구하는 사람.  
