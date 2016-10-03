@@ -71,7 +71,7 @@ Ad Networks: 광고주와 매체(퍼블리셔)를 연결해주는 업체. 수많
 
 
 Vertical / Custom:
-Targeted Networks / AMPs:
+Targeted Networks / AMPs: audience management platform 퍼블리셔를 위한 온라인 고객 세분화, 좋은 고객 세분화를 통해 퍼포먼스 증가가 목표
 Performace:
 Mobile:
 Media Mgmt Systems and Operations:
@@ -87,3 +87,4 @@ http://www.slideshare.net/DayeonJeong1/20150419-47165978
 http://blog.buzzvil.com/2015/10/30/mmc-2016-korean-mobile-advertising-landscape-buzzscape-2-0/
 http://blog.naver.com/applift/220461663167
 http://itmobile.tistory.com/entry/Ads-Study-list
+http://www.mobiinside.com/kr/2016/03/31/rtb-lee-1/
