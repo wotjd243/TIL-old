@@ -85,6 +85,11 @@ AMP(Audience Management Platform)
 
 **Publisher :** 광고 내용을 소비자에게 전달하는 매개체. '광고지면'을 제공하는 사람.  
 
+**Search Agency :** 검색광고 컨설팅 전문 기업  
+Search Marketing : 검색 도구를 단순한 검색에 그치는 것이 아니라 적극적으로 특정 웹 사이트로의 방문을 유도하여 상품을 구입하게 하는 인터넷 마케팅 전략. 각종 유명 검색 엔진에 등록하거나 검색 결과의 상위 랭킹, 그리고 사용자가 인식하지 못하더라도 광고 효과는 올릴 수 있는 모든 노력들을 통틀어 검색 엔진 마케팅(SEM)이라고 한다.  
+
+![](http://i2.wp.com/blog.buzzvil.com/wp-content/uploads/2015/10/MMC_BUZZSCAPE_2015_10_281.jpg?zoom=2&resize=638%2C478)
+
 ## 참고문헌
 http://www.slideshare.net/DayeonJeong1/20150419-47165978  
 http://blog.buzzvil.com/2015/10/30/mmc-2016-korean-mobile-advertising-landscape-buzzscape-2-0/  
