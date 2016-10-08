@@ -25,3 +25,5 @@ RequestDispatcher rd = request.getRequestDispatcher("/member/MemberList.jsp");
 
 ServletRequest는 클라이언트의 요청을 다루는 기능 외에 어떤 값을 보관하는 보관소 기능도 있습니다.
 setAttribute()를 호출하여 값을 보관할 수 있고, getAttribute()를 호출하여 보관된 값을 꺼낼 수 있습니다.
+
+이ㅌ데ㅓ 고ㅏㄴ보소
